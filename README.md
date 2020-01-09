@@ -1,6 +1,9 @@
-# ssrShare
 
-所有资源均来至 https://t.me/ssrList
+# ssrShare 免责声明
+
+资源搬运于 https://t.me/ssrList 如有侵权请联系我删除
+
+ps：分享目的是为了大家学习交流，查阅技术资料、学习资料，禁止非法或商业用途，务必做到`Read-only`
 
 # 关于如何使用
 
