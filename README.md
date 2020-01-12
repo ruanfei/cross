@@ -1,4 +1,4 @@
-# ssrShare 免责声明
+# ShadowsocksRRShare 免责声明
 
 资源搬运于 https://t.me/ssrList 如有侵权请联系我删除
 
