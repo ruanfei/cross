@@ -1,5 +1,3 @@
-# [点击选择节点](https://github.com/ruanfei/ssrShare/tree/master/ssr)
-
 # ssrShare 免责声明
 
 资源搬运于 https://t.me/ssrList 如有侵权请联系我删除
