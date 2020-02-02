@@ -8,9 +8,11 @@ ps：分享目的是为了大家学习交流，查阅技术资料、学习资料
 
 # 关于如何使用
 
-ios用美区账号下载potatso lite或Wingy
+①ssr和ss节点，ios用美区账号下载potatso lite或Wingy，Android用影梭ShadowsocksRR
 
-Android用影梭ShadowsocksRR
+②Vmess节点，苹果用kitsunebi,shadowrocket，安卓用bifrostv,V2rayNG
+
+③Socks5代理，专用于电报一键直连设置tg代理
 
 mac用[shadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG),这个使用ss节点
 
