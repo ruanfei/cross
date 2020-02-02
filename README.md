@@ -1,6 +1,6 @@
 # 免责声明
 
-资源搬运于 https://t.me/ssrList https://t.me/ssList 如有侵权请联系我删除
+资源搬运于 https://t.me/ssrList   https://t.me/ssList   https://t.me/V2List  如有侵权请联系我删除
 
 ps：分享目的是为了大家学习交流，查阅技术资料、学习资料，禁止非法或商业用途
 
