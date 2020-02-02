@@ -8,7 +8,7 @@ ps：分享目的是为了大家学习交流，查阅技术资料、学习资料
 
 # 关于如何使用
 
-ios用美区苹果ID账号下载potatso lite客户端、Wingy；
+ios用美区账号下载potatso lite或Wingy
 
 Android用影梭ShadowsocksRR
 
