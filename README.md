@@ -18,6 +18,11 @@ mac用[shadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG),这个�
 
 ss://cmM0LW1kNTpsbmNuLm9yZyA1NnRAMTg1LjIyLjE1Mi4yMTE6MTA=`#翻墙党173.41俄罗斯`
 
+# 关于机场，搬运于[翻墙论坛](www.fanqiangdang.com)
+[机场大全](https://fanqiangdang.com/thread-112-1-1.html?_dsign=25a14ed0)(请仔细甄别，谨防受骗)
+
+[翻墙行业封杀机场、粉红机场、五毛机场、机场败类封锁名单(慎用)](https://fanqiangdang.com/thread-1181-1-1.html?_dsign=636e354c)
+
 # 订阅地址，搬运于[翻墙论坛](www.fanqiangdang.com)
 SSR免费节点订阅地址：
 
@@ -85,8 +90,7 @@ https://youlianboshi.netlify.com/
 
 https://youtob4k.ml/link/2mkyb0EYIoqnLk31?mu=0
 
-V2ray免费节点订阅地址：
-有的可能需要翻墙订阅
+V2ray免费节点订阅地址：有的可能需要翻墙订阅
 
 http://v2ray.qlolp.ml
 
