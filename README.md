@@ -25,7 +25,7 @@ pss：一个个试特别麻烦，选择最新节点成功率会高点
 
 3、安卓可以随便全选ssr://字符-复制-ssr软件点左上角的下三角，然后点右下角➕号，从剪切版导入-去重添加-点闪电图标全部测速-点闪电右边图片按速排序-选速度好的用。
 
-三、下载
+# 客户端下载
 
 <table>
    <tr>
@@ -37,19 +37,19 @@ pss：一个个试特别麻烦，选择最新节点成功率会高点
    <tr>
       <td rowspan="4">android</td>
       <td rowspan="2">ssr和ss</td>
-      <td>shadowsocksr3.51</td>
+      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/shadowsocksr-android-3.5.1.1.apk">shadowsocksr3.5.1</a></td>
       <td></td>
    </tr>
    <tr>
-      <td>shadowsocksr3.54</td>
+      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/shadowsocksr-android-3.5.4.apk">shadowsocksr3.5.4</a></td>
    </tr>
    <tr>
       <td rowspan="2">vmess</td>
-      <td>bifrostv</td>
+      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/BifrostV.v.0.3.9.b.18.MultiPatch.apk">bifrostv</a></td>
       <td></td>
    </tr>
    <tr>
-      <td>v2rayNG</td>
+      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/V2rayNG.apk">v2rayNG</a></td>
       <td></td>
    </tr>
    <tr>
@@ -97,15 +97,9 @@ pss：一个个试特别麻烦，选择最新节点成功率会高点
    <tr>
       <td>mac</td>
       <td>ss</td>
-      <td>shadowSocksX-NG</td>
+      <td><a href="https://github.com/shadowsocks/ShadowsocksX-NG">shadowSocksX-NG</a></td>
       <td>节点删除备注再导入</td>
    </tr>
 </table>
 
-
-mac用[shadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG),这个使用ss节点
-
-`1.9.4 (1)`版本对节点的格式有要求，删除下面的代码块就可以导入成功了：
-
-ss://cmM0LW1kNTpsbmNuLm9yZyA1NnRAMTg1LjIyLjE1Mi4yMTE6MTA=`#翻墙党173.41俄罗斯`
 
