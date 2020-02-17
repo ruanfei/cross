@@ -8,7 +8,8 @@ ps：分享目的是为了大家学习交流，查阅技术资料、学习资料
 
 pss：一个个试特别麻烦，选择最新节点成功率会高点
 
-# 关于如何使用
+# 如何使用
+
 一、复制最新节点&注意事项
 
 ①防止首尾复制多余空格。复制节点必须以ssr://开始，结尾的地方少复制一两个字符。
@@ -24,59 +25,82 @@ pss：一个个试特别麻烦，选择最新节点成功率会高点
 
 3、安卓可以随便全选ssr://字符-复制-ssr软件点左上角的下三角，然后点右下角➕号，从剪切版导入-去重添加-点闪电图标全部测速-点闪电右边图片按速排序-选速度好的用。
 
-4、还不懂的看教程： https://fanqiangdang.com/forum-48-1.html
+三、下载
 
-三、安卓下载相应客户端
-
-①ssr和ss节点， Android用影梭ShadowsocksRR大杀器
-
-②Vmess节点， Android用谷歌商店或者apkpure网站搜索bifrostv,V2rayNG。
-
-安卓SsRR下载： https://t.me/ssrlist/5137
-
-安卓SsRR下载： https://t.me/ssrlist/519
-
-安卓V2rayNG下载： https://t.me/ssrlist/518 
-
-安卓bifrostv下载： https://t.me/ssrlist/541
-
-③其他版本客户端： https://fanqiangdang.com/solutions.html 
-
-④其他文件电报下载：进群： https://t.me/SsrList →点群头像→分享的媒体文件→下拉点分享的文件→下载你需要的win、安卓、mac版本的SS、SSR、SSRR、v2ray。
-
-四、苹果ios下载相应客户端
-
-①ssr和ss节点，苹果ios客户端用非共区苹果ID账号，或pp助手或爱思助手，安装shadowrocket寒梅potatso lite小火箭Wingy,icetea等，
-
-②Vmess节点，ios用kitsunebi,shadowrocket等；
-
-ssr下载 itunes.apple.com/us/app/netshuttle-shadowsocksr-tool/id982708939?mt=8
-
-ios下载potatso lite itunes.apple.com/us/app/id1239860606
-
-③其他版本客户端： https://fanqiangdang.com/solutions.html 
-
-④其他文件电报下载：进群： https://t.me/SsrList →点群头像→分享的媒体文件→下拉点分享的文件→下载你需要的win、安卓、mac版本的SS、SSR、SSRR、v2ray。
-
-五、Pc电脑下载相应客户端
-
-①ssr和ss节点，
-
-Pc下载SsRR： https://t.me/ssrlist/186
-
-下载sstap： https://t.me/ssrlist/5139
-
-下载SsRR： https://t.me/ssrlist/3143
-
-②Vmess节点，下载V2ray
-
-32位： https://t.me/ssrlist/1305
-
-64位： https://t.me/ssrlist/1306
-
-③其他版本客户端： https://fanqiangdang.com/solutions.html 
-
-④其他文件电报下载：进群： https://t.me/SsrList →点群头像→分享的媒体文件→下拉点分享的文件→下载你需要的win、安卓、mac版本的SS、SSR、SSRR、v2ray。
+<table>
+   <tr>
+      <td>平台</td>
+      <td>节点</td>
+      <td>客户端</td>
+      <td>备注</td>
+   </tr>
+   <tr>
+      <td rowspan="4">android</td>
+      <td rowspan="2">ssr和ss</td>
+      <td>shadowsocksr3.51</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>shadowsocksr3.54</td>
+   </tr>
+   <tr>
+      <td rowspan="2">vmess</td>
+      <td>bifrostv</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>v2rayNG</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td rowspan="5">ios</td>
+      <td rowspan="3">ssr和ss</td>
+      <td>potatso lite</td>
+      <td rowspan="5">美区Apple Store搜索</td>
+   </tr>
+   <tr>
+      <td>Wingy</td>
+   </tr>
+   <tr>
+      <td>icetea</td>
+   </tr>
+   <tr>
+      <td rowspan="2">vmess</td>
+      <td>kitsunbi</td>
+   </tr>
+   <tr>
+      <td>shadowrocket</td>
+   </tr>
+   <tr>
+      <td rowspan="5">pc</td>
+      <td rowspan="3">ssr和ss</td>
+      <td>shadowsocksr4.8</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>shadowsocksr4.9</td>
+     	<td></td>
+   </tr>
+   <tr>
+      <td>ssTap</td>
+     	<td></td>
+   </tr>
+   <tr>
+      <td rowspan="2">vmess</td>
+      <td>v2ray32位</td>
+     	<td></td>
+   </tr>
+   <tr>
+      <td>v2ray64位</td>
+     	<td></td>
+   </tr>
+   <tr>
+      <td>mac</td>
+      <td>ss</td>
+      <td>shadowSocksX-NG</td>
+      <td>节点删除备注再导入</td>
+   </tr>
+</table>
 
 
 mac用[shadowSocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG),这个使用ss节点
