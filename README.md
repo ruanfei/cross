@@ -15,6 +15,7 @@
    </tr>
    <tr>
       <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/shadowsocksr-android-3.5.4.apk">shadowsocksr3.5.4</a></td>
+      <td></td>
    </tr>
    <tr>
       <td rowspan="2">vmess</td>
