@@ -30,20 +30,20 @@
       <td rowspan="4">ios</td>
       <td rowspan="2">ssr和ss</td>
       <td>Potatso lite</td>
-      <td>免费</td>
+      <td>美区免费</td>
    </tr>
    <tr>
       <td>Wingy</td>
-     	<td>0.99$</td>
+     	<td>美区0.99$</td>
    </tr>
    <tr>
       <td rowspan="2">vmess</td>
       <td>Kitsunebi</td>
-     	<td>4.99$</td>
+     	<td>美区4.99$</td>
    </tr>
    <tr>
       <td>Shadowrocket</td>
-      <td>2.99$</td>
+      <td>美区2.99$</td>
    </tr>
    <tr>
       <td rowspan="5">pc</td>
