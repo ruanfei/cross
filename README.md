@@ -26,23 +26,23 @@
       <td></td>
    </tr>
    <tr>
-      <td rowspan="5">ios</td>
-      <td rowspan="3">ssr和ss</td>
-      <td>potatso lite</td>
-      <td rowspan="5">美区Apple Store搜索</td>
+      <td rowspan="4">ios</td>
+      <td rowspan="2">ssr和ss</td>
+      <td>Potatso lite</td>
+      <td>免费</td>
    </tr>
    <tr>
       <td>Wingy</td>
-   </tr>
-   <tr>
-      <td>icetea</td>
+     	<td>0.99$</td>
    </tr>
    <tr>
       <td rowspan="2">vmess</td>
-      <td>kitsunbi</td>
+      <td>Kitsunebi</td>
+     	<td>4.99$</td>
    </tr>
    <tr>
-      <td>shadowrocket</td>
+      <td>Shadowrocket</td>
+      <td>2.99$</td>
    </tr>
    <tr>
       <td rowspan="5">pc</td>
