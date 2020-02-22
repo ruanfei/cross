@@ -46,7 +46,7 @@
       <td>美区2.99$</td>
    </tr>
    <tr>
-      <td rowspan="5">pc</td>
+      <td rowspan="5">win</td>
       <td rowspan="3">ssr和ss</td>
    </tr>
    <tr>
