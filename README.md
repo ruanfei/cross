@@ -1,3 +1,7 @@
+# 反馈
+
+mac端ss节点自3月5日起已挂，暂不知是因为客户端被墙还是节点失效，何时恢复未知，请使用[v2rayu](https://github.com/yanue/V2rayU)连vmess节点
+
 # 客户端下载
 
 <table>
@@ -51,7 +55,7 @@
    </tr>
    <tr>
       <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/win/ShadowsocksR-win-4.9.0.zip">shadowsocksr4.9</a></td>
-     	<td></td>
+     	<td>无批量导入功能</td>
    </tr>
    <tr>
       <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/win/SSTap-beta-setup-1.1.0.1.7z">ssTap</a></td>
@@ -67,10 +71,15 @@
      	<td></td>
    </tr>
    <tr>
-      <td>mac</td>
+      <td rowspan="2">mac</td>
       <td>ss</td>
       <td><a href="https://github.com/shadowsocks/ShadowsocksX-NG">shadowSocksX-NG</a></td>
       <td>节点删除备注再导入</td>
+   </tr>
+   <tr>
+      <td>vmess</td>
+      <td><a href="https://github.com/yanue/V2rayU">V2rayU</a></td>
+      <td></td>
    </tr>
 </table>
 
