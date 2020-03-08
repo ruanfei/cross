@@ -2,7 +2,7 @@
 
 mac端ss节点自3月5日起已挂，暂不知是因为客户端被墙还是节点失效，何时恢复未知，请使用[v2rayu](https://github.com/yanue/V2rayU)连vmess节点
 
-vmess节点也挂了，推荐使用chrome浏览器应用商店VPN插件(仅浏览器可用，不支持pac模式，国内网站加载很慢)，蹭蹭党有点难受
+最新vmess节点失效，推荐使用[Chrome插件](https://chrome.google.com/webstore/category/extensions)(链接为Chrome商店首页，需翻墙，请自行搜索关键字`vpn`安装使用，仅浏览器访问可用，不支持pac模式，国内网站加载很慢)
 
 # 客户端下载
 
