@@ -12,16 +12,12 @@
       <td>备注</td>
    </tr>
    <tr>
-      <td rowspan="4">android</td>
-      <td rowspan="2">ssr和ss</td>
-      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/shadowsocksr-android-3.5.1.1.apk">shadowsocksr3.5.1</a></td>
+      <td rowspan="3">android</td>
+      <td rowspan="1">ssr和ss</td>
+      <td><a href="https://github.com/shadowsocks/shadowsocks-android">shadowsocks-android</a></td>
       <td></td>
    </tr>
-   <tr>
-      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/shadowsocksr-android-3.5.4.apk">shadowsocksr3.5.4</a></td>
-      <td></td>
-   </tr>
-   <tr>
+     <tr>
       <td rowspan="2">vmess</td>
       <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/android/BifrostV.v.0.3.9.b.18.MultiPatch.apk">bifrostv</a></td>
       <td></td>
@@ -54,8 +50,8 @@
       <td rowspan="3">ssr和ss</td>
    </tr>
    <tr>
-      <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/win/ShadowsocksR-win-4.9.0.zip">shadowsocksr4.9</a></td>
-     	<td>无批量导入功能</td>
+      <td><a href="https://github.com/shadowsocks/shadowsocks-windows">shadowsocks-windows</a></td>
+     	<td></td>
    </tr>
    <tr>
       <td><a href="https://github.com/ruanfei/ShadowsocksRRShare/raw/master/win/SSTap-beta-setup-1.1.0.1.7z">ssTap</a></td>
@@ -82,6 +78,8 @@
       <td></td>
    </tr>
 </table>
+
+
 
 # 如何使用
 
