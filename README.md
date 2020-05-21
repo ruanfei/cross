@@ -71,7 +71,7 @@
       <td rowspan="2">mac</td>
       <td>ssr</td>
       <td><a href="https://github.com/paradiseduo/ShadowsocksX-NG-R8">ShadowsocksX-NG-R8</a></td>
-      <td>节点删除备注再导入</td>
+      <td></td>
    </tr>
    <tr>
       <td>vmess</td>
