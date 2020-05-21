@@ -69,8 +69,8 @@
    </tr>
    <tr>
       <td rowspan="2">mac</td>
-      <td>ss</td>
-      <td><a href="https://github.com/shadowsocks/ShadowsocksX-NG">shadowSocksX-NG</a></td>
+      <td>ssr</td>
+      <td><a href="https://github.com/paradiseduo/ShadowsocksX-NG-R8">ShadowsocksX-NG-R8</a></td>
       <td>节点删除备注再导入</td>
    </tr>
    <tr>
