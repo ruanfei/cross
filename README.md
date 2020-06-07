@@ -1,4 +1,4 @@
-MAC端推荐正在更新的[[ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8)](https://github.com/paradiseduo/ShadowsocksX-NG-R8)，支持ss和ssr
+MAC端推荐正在更新的[[ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8)](https://github.com/paradiseduo/ShadowsocksX-NG-R8)
 
 节点经测试是能用的（速度慢），翻墙失败请检查配置或选择合适的客户端（节点类型兼容）
 
