@@ -1,3 +1,13 @@
+vmess://YXV0bzoxMzA3YWM1MC1lYjU3LTExZWEtYjQzMS01NjAwMDJmMzMwOTRAYXBwbGVtdXNpY3MudGs6NDQz?remarks=%E5%96%84%E6%AC%BE8%E9%9F%A9%E5%9B%BD%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=applemusics.tk&path=/BZpxY8Tj/&obfs=websocket&tls=1
+
+vmess://YXV0bzplZjlhZTZhMC1lNzZhLTExZWEtOTAyZS01NjAwMDJmMTk2NWZAY2hpbmFoci5tbDo0NDM?remarks=%E9%9F%A9%E5%9B%BD1%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=chinahr.ml&path=/alzs6VNP/&obfs=websocket&tls=1
+
+vmess://YXV0bzpkM2VhODc3YS1lYjVkLTExZWEtYmZhOS01NjAwMDJmMzM0YzNAZ2VuaXVzYmFyLnRrOjQ0Mw?remarks=%E9%9F%A9%E5%9B%BD2%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=geniusbar.tk&path=/jhTDlMOY/&obfs=websocket&tls=1
+
+vmess://YXV0bzo1MmNiNTUwOC1lMmIwLTExZWEtODg2My01NjAwMDJlZmM5YWZAd2VuZWVkZnJlZWRvbS5tbDo0NDM?remarks=%E5%96%84%E6%AC%BE7%E9%9F%A9%E5%9B%BD%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=weneedfreedom.ml&path=/IRpTfexs/&obfs=websocket&tls=1
+
+vmess://YXV0bzpjYjg2NmRhZS1lYjVhLTExZWEtODM0NS01NjAwMDJmMzMzYmRAa2lya2xhbmRnb29kLm1sOjQ0Mw?remarks=%E6%97%A5%E6%9C%AC2%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=kirklandgood.ml&path=/bUpVEdNi/&obfs=websocket&tls=1
+
 vmess://YXV0bzo1MmNiNTUwOC1lMmIwLTExZWEtODg2My01NjAwMDJlZmM5YWZAd2VuZWVkZnJlZWRvbS5tbDo0NDM?remarks=%E5%96%84%E6%AC%BE7%E9%9F%A9%E5%9B%BD%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=weneedfreedom.ml&path=/IRpTfexs/&obfs=websocket&tls=1
 
 vmess://YXV0bzoxMzA3YWM1MC1lYjU3LTExZWEtYjQzMS01NjAwMDJmMzMwOTRAYXBwbGVtdXNpY3MudGs6NDQz?remarks=%E5%96%84%E6%AC%BE8%E9%9F%A9%E5%9B%BD%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=applemusics.tk&path=/BZpxY8Tj/&obfs=websocket&tls=1
