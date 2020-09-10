@@ -1,5 +1,15 @@
 vmess://YXV0bzozMTRmMGZiZS1mMDBjLTExZWEtYWRlMi01NjAwMDJmNTM1MzdAZ2VuaXVzYmFyLnRrOjQ0Mw?remarks=%E9%9F%A9%E5%9B%BD2%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=geniusbar.tk&path=/APD74sEV/&obfs=websocket&tls=1
 
+vmess://YXV0bzphOTNmODIyYy1mMDA5LTExZWEtYTUyYi01NjAwMDJmNTMzMmZAd2VuZWVkZnJlZWRvbS5tbDo0NDM?remarks=%E5%96%84%E6%AC%BE7%E9%9F%A9%E5%9B%BD%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=weneedfreedom.ml&path=/DNJEOhuT/&obfs=websocket&tls=1
+
+vmess://YXV0bzplMTM1M2UwMC1mMDBmLTExZWEtYWU5ZS01NjAwMDJmNTM2ZThAY2hpbmFodW1hbnIudGs6NDQz?remarks=%E6%97%A5%E6%9C%AC6%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=chinahumanr.tk&path=/WZQJ4xBH/&obfs=websocket&tls=1
+
+vmess://YXV0bzo2NzUyZDljMi1mMDBlLTExZWEtYTZhOS01NjAwMDJmNTM2NjRAZml2ZWRlbWFuZHMubWw6NDQz?remarks=%E6%97%A5%E6%9C%AC5%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=fivedemands.ml&path=/NKZs5iBx/&obfs=websocket&tls=1
+
+vmess://YXV0bzo1MmY2MGE2MC1mMDY1LTExZWEtOTg2MS01NjAwMDJmNTViYWZAcGFtcGVyc3ZrLnRrOjQ0Mw?remarks=%E5%96%84%E6%AC%BE1%E6%B4%9B%E6%9D%89%E7%9F%B6%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=pampersvk.tk&path=/wlaFg24I/&obfs=websocket&tls=1
+
+vmess://YXV0bzozMTRmMGZiZS1mMDBjLTExZWEtYWRlMi01NjAwMDJmNTM1MzdAZ2VuaXVzYmFyLnRrOjQ0Mw?remarks=%E9%9F%A9%E5%9B%BD2%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=geniusbar.tk&path=/APD74sEV/&obfs=websocket&tls=1
+
 vmess://YXV0bzoyNDQ1NWVjOC1mMDBiLTExZWEtODNkMC01NjAwMDJmNTMzZmRAY2hpbmFoci5tbDo0NDM?remarks=%E9%9F%A9%E5%9B%BD1%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=chinahr.ml&path=/73DzwdIU/&obfs=websocket&tls=1
 
 vmess://YXV0bzo2ZjIzZWU4YS1mMDA4LTExZWEtOWEyMS01NjAwMDJmNTMyNDBAYXBwbGVtdXNpY3MudGs6NDQz?remarks=%E5%96%84%E6%AC%BE8%E9%9F%A9%E5%9B%BD%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=applemusics.tk&path=/XdgutCSF/&obfs=websocket&tls=1
