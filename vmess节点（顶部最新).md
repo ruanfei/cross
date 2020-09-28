@@ -1,5 +1,15 @@
 vmess://YXV0bzo0ZDUzOWViYS1mZTQzLTExZWEtOTMzNC01NjAwMDJmYmFiYmVAYXBwbGVtdXNpY3MudGs6NDQz?remarks=%E5%96%84%E6%AC%BE8%E9%9F%A9%E5%9B%BD%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=applemusics.tk&path=/HGUguBY9/&obfs=websocket&tls=1
 
+vmess://YXV0bzozZWFmMjJkZS1mZDcyLTExZWEtYjI4ZS01NjAwMDJmYjQ3ODVAd2VuZWVkZnJlZWRvbS5tbDo0NDM?remarks=%E5%96%84%E6%AC%BE7%E9%9F%A9%E5%9B%BD%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=weneedfreedom.ml&path=/H2OusvIh/&obfs=websocket&tls=1
+
+vmess://YXV0bzo0N2QzZjdkNi1mZmM1LTExZWEtOWQ5Zi01NjAwMDJmYzc1ZWNAY2Fub25nb29kLm1sOjQ0Mw?remarks=%E5%96%84%E6%AC%BE10%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=canongood.ml&path=/pPKIGMq7/&obfs=websocket&tls=1
+
+vmess://YXV0bzo4ZWZhZGUyMC1mZTMyLTExZWEtOTI2NS01NjAwMDJmYmEyNzRAY2RwMjAxOS50azo0NDM?remarks=%E8%A5%BF%E9%9B%85%E5%9B%BEC%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=cdp2019.tk&path=/xiFTWI4E/&obfs=websocket&tls=1
+
+vmess://YXV0bzplN2I0ODU4Mi1mZjAxLTExZWEtOTAwYS01NjAwMDJmYzEwMmRAYnVyZ2Vya2luZ2dvb2QubWw6NDQz?remarks=%E5%96%84%E6%AC%BE2%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=burgerkinggood.ml&path=/DpSoNPMG/&obfs=websocket&tls=1
+
+vmess://YXV0bzo0ZDUzOWViYS1mZTQzLTExZWEtOTMzNC01NjAwMDJmYmFiYmVAYXBwbGVtdXNpY3MudGs6NDQz?remarks=%E5%96%84%E6%AC%BE8%E9%9F%A9%E5%9B%BD%20%E8%8A%82%E7%82%B9%E6%9B%B4%E6%96%B0%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=applemusics.tk&path=/HGUguBY9/&obfs=websocket&tls=1
+
 vmess://YXV0bzo0NGVkMTZmMC1mZDczLTExZWEtOGFiNS01NjAwMDJmYjQ3ZTlAY2hpbmFoci5tbDo0NDM?remarks=%E9%9F%A9%E5%9B%BD1%EF%BC%8C%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=chinahr.ml&path=/nF6e7ZNT/&obfs=websocket&tls=1
 
 vmess://YXV0bzozZWFmMjJkZS1mZDcyLTExZWEtYjI4ZS01NjAwMDJmYjQ3ODVAd2VuZWVkZnJlZWRvbS5tbDo0NDM?remarks=%E5%96%84%E6%AC%BE7%E9%9F%A9%E5%9B%BD%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=weneedfreedom.ml&path=/H2OusvIh/&obfs=websocket&tls=1
