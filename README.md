@@ -4,6 +4,9 @@
 
 https://ikuuu.org/   每月50G免费流量，对普通用户来说够用了，付费用户会提供IOS端工具shadowrocket的共享账号，邀请链接：https://ikuuu.org/auth/register?code=nALA
 
+【全平台】clash：
+https://github.com/Fndroid/clash_for_windows_pkg/releases
+
 【浏览器-Firefox】setupvpn：
 
 https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/
