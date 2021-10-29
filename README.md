@@ -47,13 +47,6 @@ https://apps.apple.com/us/app/potatso-lite/id1239860606
 本人吃过vpn提供商跑路的亏，建议大家选择付费服务时**不要按年付费**
 
 
-## 免费节点来源
-
- https://t.me/ssrList   https://t.me/ssList   https://t.me/V2List https://t.me/SSRSUB https://t.me/ssrshares
-
-
-
-
 
 
 
