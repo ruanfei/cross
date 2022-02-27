@@ -2,7 +2,7 @@
 
 【全平台】ikuuu：
 
-https://ikuuu.org/   每月50G免费流量，对普通用户来说够用了，付费用户会提供iOS端工具shadowrocket的共享账号，邀请链接：https://ikuuu.org/auth/register?code=nALA
+https://ikuuu.org/   每月50G免费流量，对普通用户来说够用了，付费用户会提供iOS端工具shadowrocket的共享账号
 
 【全平台】clash：
 
