@@ -19,6 +19,7 @@ https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipf
 【Mac OS】clashX：
 
 https://github.com/yichengchen/clashX/releases
+
 【Mac OS】ShadowsocksX-NG-R8
 
 https://github.com/paradiseduo/ShadowsocksX-NG-R8/releases
