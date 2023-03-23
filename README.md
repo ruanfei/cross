@@ -8,7 +8,7 @@
 
 【iOS】[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 
-注：美区2.99刀，~~某宝3刀充值卡20人民币左右~~ （[美区Apple Store现已支持银联信用卡购买充值卡](https://www.apple.com/shop/buy-giftcard/giftcard)），Apple Store账单地址一定要填五大免税州（Delaware、New Hampshire、Montana、Oregon、Alaska ）
+注：美区2.99刀，~~某宝3刀充值卡20人民币左右~~ （美区Apple Store现已支持银联信用卡[购买充值卡](https://www.apple.com/shop/buy-giftcard/giftcard)），账单地址填五大免税州（Delaware、New Hampshire、Montana、Oregon、Alaska ）
 
 【iOS】[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)（美区7.99刀）
 
