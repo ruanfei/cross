@@ -1,51 +1,31 @@
-## 客户端推荐
 
-【全平台】ikuuu：
-
-https://ikuuu.org/   每月50G免费流量，对普通用户来说够用了，付费用户会提供iOS端工具shadowrocket的共享账号
-
-【全平台】clash：
-
-https://github.com/Fndroid/clash_for_windows_pkg/releases
-
-【浏览器-Firefox】setupvpn：
-
-https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/
-
-【浏览器-Chrome】setupvpn：
-
-https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
-
-【Mac OS】clashX：
-
-https://github.com/yichengchen/clashX/releases
-
-【Mac OS】ShadowsocksX-NG-R8
-
-https://github.com/paradiseduo/ShadowsocksX-NG-R8/releases
-
-【Windows】shadowsocks
-
-https://github.com/shadowsocks/shadowsocks-windows/releases
-
-【Android】shadowsocks
-
-https://github.com/shadowsocks/shadowsocks-android/releases
-
-【IOS】shadowrocket：
-
-https://apps.apple.com/us/app/shadowrocket/id932747118
-
-注：亲测好用，美区2.99刀，某宝3刀充值卡20人民币左右，共享账号存在一定风险，慎用。Apple Store账单地址一定要填五大免税州（特拉华Delaware、新罕布什尔New Hampshire、蒙大拿Montana、俄勒冈Oregon、阿拉斯加Alaska ），否则会因为余额不够跳转添加信用卡窗口。
-
-【IOS】potatso-lite（美区免费，有广告）：
-
-https://apps.apple.com/us/app/potatso-lite/id1239860606
+【全平台】[clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
 
+【Mac OS】[ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8/releases)
 
 
+【Windows】[shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+
+【Android】[shadowsocks](https://github.com/shadowsocks/shadowsocks-android/releases)
+
+【iOS】[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
+
+注：美区2.99刀，~~某宝3刀充值卡20人民币左右~~ （[美区Apple Store现已支持银联信用卡购买充值卡](https://www.apple.com/shop/buy-giftcard/giftcard)），Apple Store账单地址一定要填五大免税州（Delaware、New Hampshire、Montana、Oregon、Alaska ）
+
+【iOS】[QuantumultX](https://apps.apple.com/us/app/quantumult-x/id1443988620)（美区7.99刀）
+
+注：推荐[指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)，懒人配置看[这里](https://github.com/ddgksf2013/ddgksf2013)
+
+【浏览器-Firefox】[setupvpn](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/)
+
+【浏览器-Chrome】[setupvpn](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp)
+
+【iOS】[potatso-lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（美区免费，有广告）
+
+【白嫖机场】[ikuuu](https://ikuuu.org/)（无返利链接）：
+
+  注：每月50G免费流量，付费用户提供iOS端工具shadowrocket的共享账号
 
 
-
-
+**免费节点和订阅非常不稳定，愿意折腾的可自行搭建服务器，GitHub有许多教程，这里不做推荐**
