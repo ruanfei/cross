@@ -1,9 +1,6 @@
-
 【全平台】[clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)
 
-
 【Mac OS】[ShadowsocksX-NG-R8](https://github.com/paradiseduo/ShadowsocksX-NG-R8/releases)
-
 
 【Windows】[shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
@@ -17,15 +14,14 @@
 
 注：推荐[指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)，懒人配置看[这里](https://github.com/ddgksf2013/ddgksf2013)
 
+【iOS】[potatso-lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（美区免费，有广告）
+
 【浏览器-Firefox】[setupvpn](https://addons.mozilla.org/zh-CN/firefox/addon/setupvpn/)
 
 【浏览器-Chrome】[setupvpn](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp)
 
-【iOS】[potatso-lite](https://apps.apple.com/us/app/potatso-lite/id1239860606)（美区免费，有广告）
-
 【白嫖机场】[ikuuu](https://ikuuu.org/)（无返利链接）：
 
   注：每月50G免费流量，付费用户提供iOS端工具shadowrocket的共享账号
-
 
 **免费节点和订阅非常不稳定，愿意折腾的可自行搭建服务器，GitHub有许多教程，这里不做推荐**
