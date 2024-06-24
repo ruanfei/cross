@@ -20,8 +20,6 @@
 
 【浏览器-Chrome】[setupvpn](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp)
 
-【白嫖机场】[ikuuu](https://ikuuu.org/)（无返利链接）：
+【白嫖机场】[ikuuu](https://ikuuu.org/)（无返利链接）
 
-  注：每月50G免费流量，付费用户提供iOS端工具shadowrocket的共享账号
-
-**免费节点和订阅非常不稳定，愿意折腾的可自行搭建服务器，GitHub有许多教程，这里不做推荐**
+其他：[机场推荐](%E2%80%B8https://github.com/hwanz/SSR-V2ray-Trojan)(非常详细)
