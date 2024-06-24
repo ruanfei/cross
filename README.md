@@ -22,4 +22,4 @@
 
 【白嫖机场】[ikuuu](https://ikuuu.org/)（无返利链接）
 
-其他：[机场推荐](%E2%80%B8https://github.com/hwanz/SSR-V2ray-Trojan)(非常详细)
+其他：[机场推荐](https://github.com/hwanz/SSR-V2ray-Trojan)(非常详细)
